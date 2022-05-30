@@ -1,0 +1,30 @@
+- Smartschool Oauth (For schools)
+- Multiple types of events
+  -> Sport days
+  -> Eat days
+  -> Citytrips
+  -> Other
+- Multiple types of users
+  -> Students (can be parents -> Can be changed by an admin) (Collected from Smartschool -> Separated in different groups by year)
+  -> Teachers (Collected from Smartschool -> Separated in different groups by year)
+  -> Admins (One default admin -> Can be changed by the default itself admin)
+- Multiple types of groups
+  -> By year (Year 1, Year 2, Year 3, Year 4, Year 5, Year 6, Year 7)
+  -> By grade (Grade 1, Grade 2, Grade 3)
+  -> By class (Every class of the school can be selected -> Can be changed by an admin -> Multiple groups can be selected)
+- Build in payment system
+  - Mollie or Stripe (Stripe is first choice -> Mollie is second choice if it's easier to implement)
+- Build in calendar system
+  - Calender link to automatically add events to the calendar
+- Privacy based on GDPR
+- Build in statistics system
+  - Statistics from the school
+  - Statistics from the events
+  - Statistics from the users
+- Timer option for the events
+  - Timer for the events
+- Event can be 
+  - Public
+  - Private (Only for the group)
+  - Private and with a link (Only for the group and with the link)
+  - Hidden (Not visible for anyone)

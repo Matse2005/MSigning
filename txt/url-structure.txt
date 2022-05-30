@@ -1,0 +1,9 @@
+"/" -> Root url (Select type of event you want to access)
+"/auth" -> Auth url
+  "/auth/login" -> Login url
+  "/auth/callback" -> Callback url
+  "/auth/logout" -> Logout url
+"/[event name]" -> Event root url
+  "/[event name]/activeiten" -> Activity url (Activity list)
+  "/[event name]/activeiten/[activity name]" -> Activity url (Activity detail)
+  "/[event name]/
