@@ -1,4 +1,7 @@
-- Smartschool Oauth (For schools)
+- Auth
+  - Smartschool (If the school is using Smartschool)
+  - Google (If the school is using Google Apps)
+  - Other (If the school is using a different authentication system or not using any, changes can be made if needed)
 - Multiple types of events
   -> Sport days
   -> Eat days
