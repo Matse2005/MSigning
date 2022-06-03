@@ -4,7 +4,7 @@ const Color = require("color");
 // const colors = require("tailwindcss/colors");
 
 module.exports = {
-  content: ["./pages/**/*.{php}", "./incldues/**/*.{php}"],
+  content: ["./pages/**/*.php", "./includes/**/*.php"],
   theme: {
     themeVariants: ["dark"],
     darkMode: "class",
