@@ -1,0 +1,20 @@
+Basic authorization pages
+  - 
+
+Admin authorization pages -> /manage/
+  Group administration pages -> /manage/groups/
+    - /manage/groups/list/
+    - /manage/groups/add/
+    - /manage/groups/edit/
+    - /manage/groups/delete/
+  Statistics pages -> /manage/statistics/
+    - /manage/statistics/trafic/
+    - /manage/statistics/users/
+    - /manage/statistics/groups/
+  Logs pages -> /manage/logs/
+    - /manage/logs/all/
+    - /manage/logs/date/
+    - /manage/logs/action/
+    - /manage/logs/admin/
+  Event pages -> /manage/events/
+    - /manage/events/
