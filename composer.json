@@ -1,4 +1,7 @@
 {
+    "name": "matsevh/msigning",
+    "symbol": "MSigning",
+    "description": "Een inschrijving systeem gemaakt voor het KSD, te delen naar andere scholen of mogelijk maken voor implemenatie in smartschool zelf moesten zei hier mee akkoord gaan",
     "require": {
         "adoy/oauth2": "^1.3"
     }
