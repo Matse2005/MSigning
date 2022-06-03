@@ -6,20 +6,11 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'ca1d89861571bba93c5b2ca8b814ab5a49507e75',
-    'name' => '__root__',
+    'reference' => '89af3a47627f51534ab95162dc726fda98da75e9',
+    'name' => 'matsevh/msigning',
   ),
   'versions' => 
   array (
-    '__root__' => 
-    array (
-      'pretty_version' => 'dev-main',
-      'version' => 'dev-main',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'ca1d89861571bba93c5b2ca8b814ab5a49507e75',
-    ),
     'adoy/oauth2' => 
     array (
       'pretty_version' => '1.3.0',
@@ -28,6 +19,15 @@
       array (
       ),
       'reference' => '617d8605955cbb0ca929358fda74eab308c39cfa',
+    ),
+    'matsevh/msigning' => 
+    array (
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '89af3a47627f51534ab95162dc726fda98da75e9',
     ),
   ),
 );
