@@ -170,6 +170,9 @@ module.exports = {
       fontFamily: {
         sans: ["Inter", ...defaultTheme.fontFamily.sans],
       },
+      translate: {
+        200: "200%",
+      },
     },
   },
   variants: {
